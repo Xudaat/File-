@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Desktop\class Library\File IO TASK\File IO TASK\obj\Debug\net6.0\File IO TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\class Library\File IO TASK\File IO TASK\obj\Debug\net6.0\File IO TASK.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\class Library\File IO TASK\File IO TASK\obj\Debug\net6.0\File IO TASK.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\class Library\File IO TASK\File IO TASK\obj\Debug\net6.0\File IO TASK.csproj.CoreCompileInputs.cache
